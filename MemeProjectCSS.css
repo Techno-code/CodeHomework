@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    padding: 30px;
+}
+#outer-box {
+    margin: auto;
+    width: 35%;
+}
+img {
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: white;
+    text-align: center;
+}
+#Text1{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Text2{
+    font-size: 20px;
+    
+}
